@@ -2,5 +2,9 @@
 
 * [第 2 章 运行时数据区](_content/chapter02)
 
+* [第 3 章 对象与堆](_content/chapter03)
+
+* [第 4 章 初识垃圾回收](_content/chapter04)
+
   
 

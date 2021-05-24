@@ -6,5 +6,7 @@
 
 * [第 4 章 初识垃圾回收](_content/chapter04)
 
+* [第 5 章 垃圾收集器](_content/chapter05)
+
   
 

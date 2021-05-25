@@ -8,5 +8,7 @@
 
 * [第 5 章 垃圾收集器](_content/chapter05)
 
+* [第 6章 随便聊一聊](_content/chapter06)
+
   
 
